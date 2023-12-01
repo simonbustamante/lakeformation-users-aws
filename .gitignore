@@ -1,0 +1,10 @@
+.terraform
+.terraform/*
+.terraform*
+terraform*
+*.zip
+sftp*
+*.pub
+transfer*
+*.csv
+power*
