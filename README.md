@@ -1,7 +1,7 @@
 # APP USERS for AWS 
 
 ## Description
-This repository contains Terraform scripts and Bash scripts for configuring and managing users and policies in AWS environments for the Panama Dev Lake project. The scripts are designed to facilitate access and management of AWS resources such as Athena, IAM, and Lake Formation across different environments (development, UAT, production).
+This repository contains Terraform scripts and Bash scripts for configuring and managing users and policies in AWS environments for the Dev Lake project. The scripts are designed to facilitate access and management of AWS resources such as Athena, IAM, and Lake Formation across different environments (development, UAT, production).
 
 ## Repository Structure
 The repository is organized as follows:
