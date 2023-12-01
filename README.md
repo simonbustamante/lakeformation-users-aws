@@ -33,9 +33,3 @@ The `user_management.sh` script automates the process of granting permissions in
 ### Usage
 To run the script, simply execute the command `bash user_management.sh` in your terminal. Ensure you have the appropriate credentials and execution permissions for the script.
 
-## Contributions
-To contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Create a pull request with a detailed description of your changes.
