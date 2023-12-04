@@ -6,7 +6,7 @@
 
 provider "aws" {
   alias = "dev"
-  profile = "579325186151_AWSAdministratorAccess"
+  profile = "<account_id>_AWSAdministratorAccess"
   region  = "us-east-1"
 }
 
@@ -14,10 +14,7 @@ provider "aws" {
 variable "users" {
   description = "List of user name"
   default = [
-    "power-bi-lourdes-laguna-pa-athena-access-dev",
     "power-bi-simon-bustamante-pa-athena-access-dev",
-    "power-bi-andy-guardia-pa-athena-access-dev",
-    "power-bi-carlos-ovalle-pa-athena-access-dev",
     "power-bi-gtw-pa-athena-access-dev",
     #"simon-test",
     # ... Añadir más usuarios  según sea necesario
